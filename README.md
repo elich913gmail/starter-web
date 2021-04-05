@@ -6,12 +6,15 @@ together
 
 ##Introduction 
 
-This is example....
+This is example another....
 
 ## Purpose 
 
+this is the purpose
+
 Sample website with plenty of files for demos
 
+hjhkjhkj
 ## Deployment
 
 ## How To Contribute
